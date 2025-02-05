@@ -1,0 +1,3 @@
+[submodule "app"]
+	path = app
+	url = https://github.com/olgara4L/olga.git
